@@ -7,3 +7,5 @@ Overview for projects supported by [Symmetry Investments](http://symmetryinvestm
 
 [excel-d](https://github.com/kaleidicassociates/excel-d) - write Excel add-ins in D
 
+[influx-d](https://github.com/kaleidicassociates/influx-d) - D language wrapper for InfluxDB
+
