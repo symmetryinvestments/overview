@@ -9,6 +9,8 @@ Overview for projects supported by [Symmetry Investments](http://symmetryinvestm
 
 [influx-d](https://github.com/kaleidicassociates/influx-d) - D language wrapper for InfluxDB
 
+[nanomsg-wrapper](https://github.com/kaleidicassociates/nanomsg-wrapper) - D language wrapper for nanomsg
+
 [zfs-on-root-installer](https://github.com/hamishcoleman/zfs-on-root-installer) - Install Ubuntu with ZFS on Root
 
 [dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
