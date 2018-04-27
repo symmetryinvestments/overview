@@ -14,3 +14,5 @@ Overview for projects supported by [Symmetry Investments](http://symmetryinvestm
 [zfs-on-root-installer](https://github.com/hamishcoleman/zfs-on-root-installer) - Install Ubuntu with ZFS on Root
 
 [dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
+
+[mrss](https://github.com/symmetryinvestments/mrss) - D bindings to MRSS library
