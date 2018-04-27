@@ -16,3 +16,10 @@ Overview for projects supported by [Symmetry Investments](http://symmetryinvestm
 [dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
 
 [mrss](https://github.com/symmetryinvestments/mrss) - D bindings to MRSS library
+
+[autowrap](https://github.com/kaleidicassociates/autowrap) - Wrap existing D code for Python, Excel, and soon more
+
+[xlsxwriter-d](https://github.com/kaleidicassociates/xlsxwriter-d) - D bindings to XLSX writer C library
+
+
+
