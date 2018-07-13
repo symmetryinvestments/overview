@@ -1,7 +1,7 @@
 # overview
 Overview for projects supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
-We're [hiring](https://jobs.github.com/companies/Symmetry%20Investments).
+We're [hiring](http://symmetryinvestments.com/careers/).
 
 
 [Lubeck](https://github.com/kaleidicassociates/lubeck) - a native code C ABI high-level linear algebra library
