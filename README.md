@@ -8,6 +8,8 @@ We're [hiring](https://jobs.github.com/companies/Symmetry%20Investments).
 
 [Mir-Algorithm](https://github.com/libmir/mir-algorithm) - general-purpose array and algorithm library
 
+[Mir-Optimiser](https://github.com/libmir/mir-optim) -  BetterC Nonlinear Optimization Framework
+
 [excel-d](https://github.com/kaleidicassociates/excel-d) - write Excel add-ins in D
 
 [influx-d](https://github.com/kaleidicassociates/influx-d) - D language wrapper for InfluxDB
