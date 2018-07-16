@@ -1,7 +1,7 @@
 # overview
 Overview for projects supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
-We're [hiring](http://symmetryinvestments.com/careers/).
+We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).
 
 
 [Lubeck](https://github.com/kaleidicassociates/lubeck) - a native code C ABI high-level linear algebra library
