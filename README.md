@@ -3,6 +3,9 @@ Overview for projects supported by [Symmetry Investments](http://symmetryinvestm
 
 We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).
 
+(xlsxd)
+https://github.com/kaleidicassociates/xlsxd) - Excel writer wrapper
+
 [UDT-D](https://github.com/kaleidicassociates/udt_d) - Command-line tools for UDT (reliable UDP) and UDT D library
 
 [Lubeck](https://github.com/kaleidicassociates/lubeck) - a native code C ABI high-level linear algebra library
