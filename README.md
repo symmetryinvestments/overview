@@ -1,5 +1,5 @@
 # overview
-Overview for projects supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
+Overview for projects developed by and supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
 We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).
 
