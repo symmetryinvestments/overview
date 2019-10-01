@@ -5,33 +5,33 @@ We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be spons
 
 [GraphQL-D](https://github.com/symmetryinvestments/graphqld) - GraphQL Back End
 
-[Jupyter-Wire] (https://github.com/symmetryinvestments/jupyter-wire) - Jupyter Kernel in D
+[Jupyter-Wire](https://github.com/symmetryinvestments/jupyter-wire) - Jupyter Kernel in D
 
-[dubproxy] (https://github.com/symmetryinvestments/dubproxy) - DUB proxy
+[dubproxy](https://github.com/symmetryinvestments/dubproxy) - DUB proxy
 
-[faked] (https://github.com/symmetryinvestments/faked) - Generate fake user data in D
+[faked](https://github.com/symmetryinvestments/faked) - Generate fake user data in D
 
-[juliad] (https://github.com/symmetryinvestments/juliad) - WIP towards D / Julia integration
+[juliad](https://github.com/symmetryinvestments/juliad) - WIP towards D / Julia integration
 
-[libbetterc] (https://github.com/symmetryinvestments/libbetterc) - Better C library - useful for D / WASM projects
+[libbetterc](https://github.com/symmetryinvestments/libbetterc) - Better C library - useful for D / WASM projects
 
-[gelf] (https://github.com/symmetryinvestments/symmetry-gelf) - GELF Graylog client integrating with std.experimental.logger
+[gelf](https://github.com/symmetryinvestments/symmetry-gelf) - GELF Graylog client integrating with std.experimental.logger
 
-[xlsxreader] (https://github.com/symmetryinvestments/xlsxreader) - Native D Excel reader
+[xlsxreader](https://github.com/symmetryinvestments/xlsxreader) - Native D Excel reader
 
 [xlsxd](https://github.com/kaleidicassociates/xlsxd) - Excel writer wrapper
 
 [xlsxwriter-d](https://github.com/kaleidicassociates/xlsxwriter-d) - D bindings to XLSX writer C library
 
-[trello-d] (https://github.com/symmetryinvestments/trello-d) - Trello API
+[trello-d](https://github.com/symmetryinvestments/trello-d) - Trello API
 
-[rabbitmq-d] (https://github.com/symmetryinvestments/rabbitmq-d) - RabbitMQ client wrapper
+[rabbitmq-d](https://github.com/symmetryinvestments/rabbitmq-d) - RabbitMQ client wrapper
 
-[libzfs-core-d] (https://github.com/symmetryinvestments/libzfs-core-d) LibZFS-core
+[libzfs-core-d](https://github.com/symmetryinvestments/libzfs-core-d) LibZFS-core
 
-[sspi-d] (https://github.com/symmetryinvestments/sspi-d) - Windows SSPI authentication for D
+[sspi-d](https://github.com/symmetryinvestments/sspi-d) - Windows SSPI authentication for D
 
-[dockerfile-dlang] (https://github.com/symmetryinvestments/dockerfile-dlang) - D wrapper to parse Dockerfiles in D
+[dockerfile-dlang](https://github.com/symmetryinvestments/dockerfile-dlang) - D wrapper to parse Dockerfiles in D
 
 [UDT-D](https://github.com/kaleidicassociates/udt_d) - Command-line tools for UDT (reliable UDP) and UDT D library
 
@@ -53,7 +53,7 @@ We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be spons
 
 [mrss](https://github.com/symmetryinvestments/mrss) - D bindings to MRSS library
 
-[libvirt] (https://github.com/symmetryinvestments/libvirt) - Libvirt wrapper
+[libvirt](https://github.com/symmetryinvestments/libvirt) - Libvirt wrapper
 
 [autowrap](https://github.com/kaleidicassociates/autowrap) - Wrap existing D code for Python, Excel and C#
 
