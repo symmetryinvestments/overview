@@ -9,6 +9,8 @@ We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be spons
 
 [dubproxy](https://github.com/symmetryinvestments/dubproxy) - DUB proxy
 
+[imap-d] (https://github.com/symmetryinvestments/imap-d) - IMAP client library
+
 [faked](https://github.com/symmetryinvestments/faked) - Generate fake user data in D
 
 [juliad](https://github.com/symmetryinvestments/juliad) - WIP towards D / Julia integration
