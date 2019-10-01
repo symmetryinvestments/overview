@@ -3,6 +3,8 @@ Overview for projects developed by and supported by [Symmetry Investments](http:
 
 We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).
 
+[GraphQL-D](https://github.com/symmetryinvestments/graphqld) - GraphQL Back End
+
 [xlsxd](https://github.com/kaleidicassociates/xlsxd) - Excel writer wrapper
 
 [UDT-D](https://github.com/kaleidicassociates/udt_d) - Command-line tools for UDT (reliable UDP) and UDT D library
