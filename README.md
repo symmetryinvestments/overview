@@ -55,7 +55,7 @@ We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be spons
 
 [libvirt] (https://github.com/symmetryinvestments/libvirt) - Libvirt wrapper
 
-[autowrap](https://github.com/kaleidicassociates/autowrap) - Wrap existing D code for Python, Excel, and soon more
+[autowrap](https://github.com/kaleidicassociates/autowrap) - Wrap existing D code for Python, Excel and C#
 
 
 
