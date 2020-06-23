@@ -1,7 +1,7 @@
 # overview
 Overview for projects developed by and supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
-We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).
+We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).  [Hacker News here:](https://news.ycombinator.com/item?id=23400599)
 
 [GraphQL-D](https://github.com/symmetryinvestments/graphqld) - GraphQL Back End
 
