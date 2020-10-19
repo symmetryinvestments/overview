@@ -3,6 +3,8 @@ Overview for projects developed by and supported by [Symmetry Investments](http:
 
 We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).  Hacker News [here:](https://news.ycombinator.com/item?id=23400599)
 
+Our [YouTube channel](https://youtube.com/channel/UC55rzjcLFnRciov_jINot4w)
+
 [GraphQL-D](https://github.com/symmetryinvestments/graphqld) - GraphQL Back End
 
 [Jupyter-Wire](https://github.com/symmetryinvestments/jupyter-wire) - Jupyter Kernel in D
