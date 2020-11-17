@@ -13,7 +13,7 @@ Full-Time, Fixed Term, Flexible
 
 **Technical:** developers, DevOps, infosec, documentation, UX, process designers, tool design, Windows and Linux desktop support, helpdesk management, system / server administration, desktop and server research
 
-**Portfolio Management:** entry-level execution traders / portfolio managers, trade assistants
+**Portfolio Management:** entry-level execution traders, portfolio managers, trade assistants
 
 **Business:** risk, operations, legal, compliance, finance, administrative, organisational design, documentation, internal communication, investor relations processes, org ops
 
