@@ -1,19 +1,26 @@
 # overview
 Overview for projects developed by and supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
+## Covid preparedness
+- [Laeeth's personal plan (not endorsed by Symmetry)](https://github.com/symmetry-covid/personal-plan)
+- [Vitamin D and decision-making under uncertainty](https://www.researchgate.net/publication/346423180_Vitamin_D_and_COVID-19_Is_There_a_Lack_of_RiskReward_Understanding_Among_Health_Authorities)
+
+## Hiring
 We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).  Hacker News [here:](https://news.ycombinator.com/item?id=23400599)
 
-Our [YouTube channel](https://youtube.com/channel/UC55rzjcLFnRciov_jINot4w)
+## Social Media
+- [YouTube channel](https://youtube.com/channel/UC55rzjcLFnRciov_jINot4w)
+- [LinkedIn](https://www.linkedin.com/company/symmetry-investments-uk-llp/)
+- [Twitter](https://twitter.com/SymmetryInvest)
+- D Foundation and Symmetry [1](https://dlang.org/blog/2020/08/30/symmetry-investments-and-the-d-language-foundation-are-hiring/) [2](https://dlang.org/blog/symmetry-autumn-of-code/) [3](https://dlang.org/blog/2019/07/22/symmetry-autumn-of-code-experience-report-porting-a-fork-based-gc/)
 
-[GraphQL-D](https://github.com/symmetryinvestments/graphqld) - GraphQL Back End
+## Open-source Symmetry Libraries
 
-[Jupyter-Wire](https://github.com/symmetryinvestments/jupyter-wire) - Jupyter Kernel in D
-
-[dubproxy](https://github.com/symmetryinvestments/dubproxy) - DUB proxy
-
-[imap-d](https://github.com/symmetryinvestments/imap-d) - IMAP client library
-
-[faked](https://github.com/symmetryinvestments/faked) - Generate fake user data in D
+- [GraphQL Back End in D](https://github.com/symmetryinvestments/graphqld)
+- [Jupyter Kernel in D](https://github.com/symmetryinvestments/jupyter-wire)
+- [DUB proxy](https://github.com/symmetryinvestments/dubproxy) 
+- [IMAP dlang client library](https://github.com/symmetryinvestments/imap-d)
+- [faked to generate fake user data](https://github.com/symmetryinvestments/faked)
 
 [juliad](https://github.com/symmetryinvestments/juliad) - WIP towards D / Julia integration
 
