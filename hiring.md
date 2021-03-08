@@ -49,7 +49,7 @@ Our core technology team has been remote first for some time, and the whole comp
 
 I'm one of the three people running the firm, responsible amongst other things for technology across the firm and I’m posting this myself. That should give you an idea both about how seriously we take technology and the culture of the firm.
 
-We are three years into a period of transformation from what was initially a fairly standard enterprise finance technology approach to something new that recognises the importance of both the humane and the technical for discretionary portfolio management and for the business of running an alternative investment manager.  Andrei Alexandrescu (https://www.youtube.com/watch?v=es6U7WAlKpQ) and Atila Neves (https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/) have been working with us as long-term consultants and we have many other talented people with lower public profiles.
+We are three years into a period of transformation from what was initially a fairly standard enterprise finance technology approach to something new that recognises the importance of both the humane and the technical for discretionary portfolio management and for the business of running an alternative investment manager.  [Andrei Alexandrescu](https://www.youtube.com/watch?v=es6U7WAlKpQ) and [Atila Neves](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/) have been working with us as long-term consultants and we have many other talented people with lower public profiles.
 
 It's not easy to integrate practitioners who may spend most of their day programming, but are oriented towards solving business problems, with developers who are specialists in programming. To achieve this, we wrote a little functional DSL that's now in production. Type inference of returns and parameters using inequality constraints is in a feature branch and there is plenty more to do on the language itself as well as the ecosystem around it. SIL can compile and call C++ and D at runtime; Python interop is in alpha; and C# is on the way.  What might be a project in itself elsewhere can be just a set of functions in Symmetry Integration Language.
 
@@ -62,13 +62,13 @@ We look for virtues and capabilities over only experience and credentials althou
 Compensation is currently not quite at Netflix standards but is generous to very generous over time by broad technology industry standards. We recognise and reward technical accomplishment and have a very flat structure - don't be surprised if our founder and CIO starts asking you questions about your work.
 
 ## Symmetry Talks
-- Symmetry Internship Project - calling C++ from SIL (http://dconf.org/2020/online/index.html#alexandru)
-- All Spreadsheets Must Die (https://youtu.be/FZi9CSB9_kk)
-- Lessons from a DSL where all you have is Ranges (https://www.youtube.com/watch?v=BtuzSlKRmzA)
-- Alternative Investment Management (https://youtu.be/1rMq-4rWgis)
+- [Symmetry Internship Project - calling C++ from SIL](http://dconf.org/2020/online/index.html#alexandru)
+- [All Spreadsheets Must Die](https://youtu.be/FZi9CSB9_kk)
+- [Lessons from a DSL where all you have is Ranges](https://www.youtube.com/watch?v=BtuzSlKRmzA)
+- [Alternative Investment Management](https://youtu.be/1rMq-4rWgis)
 
 ## Links
-- Symmetry GitHub (https://github.com/symmetryinvestments)
+- [Symmetry GitHub](https://github.com/symmetryinvestments)
 
 # Contact
 - Email hiring at symmetry.dev and cc jthompson at symmetryinvestments dot com.
