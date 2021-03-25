@@ -71,4 +71,4 @@ Compensation is currently not quite at Netflix standards but is generous to very
 - [Symmetry GitHub](https://github.com/symmetryinvestments)
 
 # Contact
-- Email hiring at symmetry.dev and cc jthompson at symmetryinvestments dot com.
+- Email bcheung at symmetryinvestments dot com and cc jthompson at symmetryinvestments dot com with the words github in the subject line.
