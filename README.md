@@ -1,9 +1,6 @@
 # overview
 Overview for projects developed by and supported by [Symmetry Investments](http://symmetryinvestments.com/about-us/)
 
-## Hiring
-We're [hiring](http://symmetryinvestments.com/careers/) and are glad to be sponsors of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/).  Hacker News [here.](https://news.ycombinator.com/threads?id=symmetryinv)
-
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/company/symmetry-investments-uk-llp/)
 - [Twitter](https://x.com/SymmetryInvest)
